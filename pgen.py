@@ -23,3 +23,4 @@ def generatePW(plen = 10, echo = True, cb = True):
 
 if __name__ == '__main__':
     generatePW()
+    
